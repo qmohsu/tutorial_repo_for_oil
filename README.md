@@ -56,4 +56,4 @@ How to contribute to the project.
 
 ## License
 
-The license for this project.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
